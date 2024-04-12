@@ -1,14 +1,22 @@
 {
-  "name": "lighthouse",
+  "name": "d4-api",
   "version": "1.0.0",
   "description": "",
   "main": "breedFetcher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:mcdmtomlinson/json_the_cat.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:mcdmtomlinson/json_the_cat.git"
+  },
+  "homepage": "https://github.com/mcdmtomlinson/json_the_cat",
   "dependencies": {
     "request": "^2.88.2"
   }
